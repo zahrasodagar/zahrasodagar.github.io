@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zahra Sodagar"
-  avatar           : "profile.png"
-  bio              : "B.Sc Student in Electrical Engineering with a minor in Applied Mathematics at Sharif University of Technology <br><br> <a href='https://en.sharif.edu/'><img src='/images/sharif.png' style='width: 20%; height: 20%;' /></a>"
+  avatar           : "me.png"
+  bio              : "B.Sc Student in Electrical Engineering with a minor in Applied Mathematics at Sharif University of Technology"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
