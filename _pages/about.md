@@ -17,14 +17,10 @@ and
 I also have been very fortunate to be a research intern at 
 <a href="https://vilab.epfl.ch/">Vilab</a>
 at 
-<a href="https://www.epfl.ch/">EPFL</a>
-, supervised by 
-<a href="https://vilab.epfl.ch/zamir/">Prof. Amir Zamir</a>.
-, and a research assistant at 
-<a href="https://www.ie.cuhk.edu.hk/">Information Engineering Departmat</a>
-at 
-<a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a>
-, supervised by 
+<a href="https://www.epfl.ch/">EPFL</a> supervised by 
+<a href="https://vilab.epfl.ch/zamir/">Prof. Amir Zamir</a>, and a research assistant at 
+<a href="https://www.ie.cuhk.edu.hk/">Information Engineering Departmat</a> at 
+<a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
 <a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/">Prof. Farzan Farnia</a>.
 
 Publications
