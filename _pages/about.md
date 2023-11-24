@@ -22,18 +22,27 @@ and a research assistant at
 <a href="https://www.ie.cuhk.edu.hk/">Information Engineering Departmat</a> at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
 <a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/">Prof. Farzan Farnia</a>. Along with these experiences, I have completed various online and in-person courses, which further helped me discover my research interests.
-<br><br>
 
 My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on privacy, fairness, robustness, generalization, as well as interpretability and comprehending what models learn, to enhance their performance by utilizing their knowledge.
 
 I’m also fascinated by how nature solves learning problems. Thus, I am interested in fields such as cognitive science and cognitively-inspired AI, as well as other areas like multi-task and meta-learning, aiming to drive more efficient and natural-like solutions to AI problems.
-<br>
+
 In my non-academic life, I enjoy photography, reading, playing the Setar, hiking, and social activities!
+
+Research Interests
+------
+<ul style="margin-top: -1%;" markdown='1'>
+<li> Machine Learning and Deep Learning </li>
+<li> Trustworthy AI (Privacy, Fairness, Robustness, Generalization, Interpretability) </li>
+<li> Cognitive Science and Cognitively-inspired AI </li>
+<li> Multi-task Learning and Meta-learning </li>
+<li> Embodied AI </li>
+</ul>
 
 Publications
 ------
 <ul style="margin-top: -1%;" markdown='1'>
-<li><a href="https://rapid-network-adaptation.epfl.ch/">Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback</a>
+<li><a href="https://rapid-network-adaptation.epfl.ch/"> Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback</a>
   <br>
   <em>Teresa Yeo, Oğuzhan Fatih Kar, <b>Zahra Sodagar</b>, Amir Zamir;</em> Proceedings of the IEEE/CVF International Conference on Computer Vision <b>(ICCV)</b>, 2023.
 </li>
