@@ -27,7 +27,7 @@ My broad research interests lie in the span of machine learning and deep learnin
 
 I’m also fascinated by how nature solves learning problems. Thus, I am interested in fields such as cognitive science and cognitively-inspired AI, as well as other areas like multi-task and meta-learning, aiming to drive more efficient and natural-like solutions to AI problems.
 
-In my non-academic life, I enjoy photography, reading, playing the Setar, hiking, and social activities!
+In my non-academic life I enjoy photography, reading, playing the Setar, hiking, and social activities!
 
 Research Interests
 ------
