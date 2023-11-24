@@ -34,18 +34,20 @@ Research Interests
 ------
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Machine Learning and Deep Learning </li>
-<li> Trustworthy AI (Privacy, Fairness, Robustness, Generalization, Interpretability) </li>
+<li> Privacy and Fairness </li>
+<li> Robustness, Generalization and Interpretability </li>
+<li> Computer Vision and Embodied AI </li>
 <li> Cognitive Science and Cognitively-inspired AI </li>
 <li> Multi-task Learning and Meta-learning </li>
-<li> Embodied AI </li>
+<li> Applied Statistics, Information Theory and Optimization </li>
 </ul>
 
 Publications
 ------
 <ul style="margin-top: -1%;" markdown='1'>
-<li><a href="https://rapid-network-adaptation.epfl.ch/"> Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback</a>
+<li><a href="https://rapid-network-adaptation.epfl.ch/"><b>Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback</b></a>
   <br>
-  <em>Teresa Yeo, Oğuzhan Fatih Kar, <u>Zahra Sodagar</u>, Amir Zamir;</em> Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
+  <em><b>Teresa Yeo, Oğuzhan Fatih Kar, <u>Zahra Sodagar</u>, Amir Zamir;</b></em> Proceedings of the IEEE/CVF International Conference on Computer Vision <b>(ICCV)</b>, 2023.
 </li>
 </ul>
 
