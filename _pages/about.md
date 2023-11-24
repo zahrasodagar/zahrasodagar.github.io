@@ -21,7 +21,7 @@ at
 and a research assistant at 
 <a href="https://www.ie.cuhk.edu.hk/">Information Engineering Departmat</a> at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
-<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/">Prof. Farzan Farnia</a>. Along with these experiences, I have completed various online and in-person courses, which further helped me discover my research interests.
+<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/">Prof. Farzan Farnia</a>.
 
 My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on privacy, fairness, robustness, generalization, as well as interpretability and comprehending what models learn, to enhance their performance by utilizing their knowledge.
 
