@@ -14,7 +14,8 @@ Throughout my undergraduate studies, I've had the great opportunity to be advise
 and 
 <a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en">Prof. Sajjad Amini</a>.
 I also have been very fortunate to be a research intern at 
-<a href="https://vilab.epfl.ch/">Vilab</a>
+<a href="https://vilab.epfl.ch/">
+Visual Intelligence and Learning Lab (VILAB)</a>
 at 
 <a href="https://www.epfl.ch/">EPFL</a> supervised by 
 <a href="https://vilab.epfl.ch/zamir/">Prof. Amir Zamir</a>, 
