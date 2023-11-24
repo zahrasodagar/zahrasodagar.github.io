@@ -45,7 +45,7 @@ Publications
 <ul style="margin-top: -1%;" markdown='1'>
 <li><a href="https://rapid-network-adaptation.epfl.ch/"> Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback</a>
   <br>
-  <em>Teresa Yeo, Oğuzhan Fatih Kar, <b>Zahra Sodagar</b>, Amir Zamir;</em> Proceedings of the IEEE/CVF International Conference on Computer Vision <b>(ICCV)</b>, 2023.
+  <em>Teresa Yeo, Oğuzhan Fatih Kar, <u>Zahra Sodagar</u>, Amir Zamir;</em> Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
 </li>
 </ul>
 
