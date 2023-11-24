@@ -13,7 +13,6 @@ Throughout my undergraduate studies, I've had the great opportunity to be advise
 <a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en">Prof. Mohammad Hossein Yassaee</a>
 and 
 <a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en">Prof. Sajjad Amini</a>.
-<br>
 I also have been very fortunate to be a research intern at 
 <a href="https://vilab.epfl.ch/">Vilab</a>
 at 
@@ -22,12 +21,12 @@ at
 and a research assistant at 
 <a href="https://www.ie.cuhk.edu.hk/">Information Engineering Departmat</a> at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
-<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/">Prof. Farzan Farnia</a>.
+<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/">Prof. Farzan Farnia</a>. Along with these experiences, I have completed various online and in-person courses, which further helped me discover my research interests.
 <br><br>
 
-My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on privacy, fairness, robustness, generalization, interpretability, etc. 
+My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on privacy, fairness, robustness, generalization, as well as interpretability and comprehending what models learn, to enhance their performance by utilizing their knowledge.
 <br>
-I’m also fascinated by how nature solves learning problems. Thus, I am interested in fields such as cognitive science and cognitively-inspired AI, as well as other areas like multi-task and meta-learning, aiming to drive more efficient and natural-like solutions to AI problems.
+Along with that, I’m also fascinated by how nature solves learning problems. Thus, I am interested in fields such as cognitive science and cognitively-inspired AI, as well as other areas like multi-task and meta-learning, aiming to drive more efficient and natural-like solutions to AI problems.
 <br>
 In my non-academic life, I enjoy photography, reading, playing the Setar, hiking, and social activities!
 
