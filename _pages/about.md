@@ -25,7 +25,7 @@ and a research assistant at
 <br><br>
 
 My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on privacy, fairness, robustness, generalization, as well as interpretability and comprehending what models learn, to enhance their performance by utilizing their knowledge.
-<br>
+
 I’m also fascinated by how nature solves learning problems. Thus, I am interested in fields such as cognitive science and cognitively-inspired AI, as well as other areas like multi-task and meta-learning, aiming to drive more efficient and natural-like solutions to AI problems.
 <br>
 In my non-academic life, I enjoy photography, reading, playing the Setar, hiking, and social activities!
