@@ -10,20 +10,20 @@ redirect_from:
 
 Hi, I’m Zahra! I am a senior B.Sc. student majoring in Electrical Engineering with a minor in Applied Mathematics at <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
 Throughout my undergraduate studies, I've had the great opportunity to be advised by 
-<a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><em>Prof. Mohammad Hossein Yassaee</em></a>
+<a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><b>Prof. Mohammad Hossein Yassaee</b></a>
 and 
-<a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><em>Prof. Sajjad Amini</em></a>.
+<a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a>.
 
 I also have been very fortunate to be a research intern at 
 <a href="https://vilab.epfl.ch/">
 Visual Intelligence and Learning Lab (VILAB)</a>
 at 
 <a href="https://www.epfl.ch/">EPFL</a> supervised by 
-<a href="https://vilab.epfl.ch/zamir/"><em>Prof. Amir Zamir</em></a> (Summer@EPFL Program), 
+<a href="https://vilab.epfl.ch/zamir/"><b>Prof. Amir Zamir</b></a> (Summer@EPFL Program), 
 and a research assistant at 
 <a href="https://www.ie.cuhk.edu.hk/">Information Engineering Departmat</a> at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
-<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/"><em>Prof. Farzan Farnia</em></a> (ITCSC SRP Program).
+<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/"><b>Prof. Farzan Farnia</b></a> (ITCSC SRP Program).
 
 My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on privacy, fairness, robustness, generalization, as well as interpretability and comprehending what models learn, to enhance their performance by utilizing their knowledge.
 
