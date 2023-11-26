@@ -18,24 +18,26 @@ I also have been very fortunate to be a research intern at
 Visual Intelligence and Learning Lab (VILAB)</a>
 at 
 <a href="https://www.epfl.ch/">EPFL</a> supervised by 
-<a href="https://vilab.epfl.ch/zamir/">Prof. Amir Zamir</a>, 
+<a href="https://vilab.epfl.ch/zamir/">Prof. Amir Zamir</a> (Summer@EPFL Program), 
 and a research assistant at 
 <a href="https://www.ie.cuhk.edu.hk/">Information Engineering Departmat</a> at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
-<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/">Prof. Farzan Farnia</a>.
+<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/">Prof. Farzan Farnia</a> (ITCSC SRP Program).
 
 My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on privacy, fairness, robustness, generalization, as well as interpretability and comprehending what models learn, to enhance their performance by utilizing their knowledge.
 
-I’m also fascinated by how nature solves learning problems. Thus, I am interested in fields such as cognitive science and cognitively-inspired AI, as well as other areas like multi-task and meta-learning, aiming to drive more efficient and natural-like solutions to AI problems.
+I’m also fascinated by how nature solves learning problems. Thus, I am interested in fields such as cognitive science and cognitively-inspired AI, as well as other areas like contrastive learning, multi-task and meta-learning, aiming to drive more efficient and natural-like solutions to AI problems.
 
 In my non-academic life I enjoy photography, reading, playing the Setar, hiking, and social activities!
 
 Research Interests
 ------
+Including, but not limited to:
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Machine Learning and Deep Learning </li>
+<li> Robustness</li>
+<li> Generalization and Interpretability </li>
 <li> Privacy and Fairness </li>
-<li> Robustness, Generalization and Interpretability </li>
 <li> Computer Vision and Embodied AI </li>
 <li> Cognitive Science and Cognitively-inspired AI </li>
 <li> Multi-task Learning and Meta-learning </li>
