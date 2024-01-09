@@ -29,7 +29,7 @@ My broad research interests lie in the span of machine learning and deep learnin
 
 I’m also fascinated by how nature solves learning problems. Thus, I am interested in fields such as cognitive science and cognitively-inspired AI, as well as other areas like contrastive learning, multi-task and meta-learning, aiming to drive more efficient and natural-like solutions to AI problems.
 
-In my non-academic life I enjoy photography, reading, playing the Setar, listening to music, taking long walks and hiking, and learning new languages. I also love travelling and having deep conversations with people from different cultural backgrounds, as I believe it enables us to see different aspects of life from new philosophical perspectives, helping me discover myself and grow more, and drawing me closer to the mystical unified truth behind the universe!
+In my non-academic life, I enjoy photography, reading (more precisely, Russian and East-European literature, philosophical books, and Persian poetry—mostly Rumi and Saadi), playing the Setar (and soon the Tanbur), listening to music, taking long walks and hiking, and learning new languages (currently focusing on improving my French and Arabic). I also love traveling, exploring different cultures, and having deep conversations with people from different cultural backgrounds. I believe this enables us to see different aspects of life from new philosophical perspectives, helping me discover myself, grow more, and draw closer to the mystical unified truth behind the universe.
 
 Research Interests
 ------
