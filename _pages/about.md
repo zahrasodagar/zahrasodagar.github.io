@@ -15,17 +15,15 @@ and
 <a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a>.
 
 I also have been very fortunate to be a research intern at 
-<a href="https://vilab.epfl.ch/">Visual Intelligence and Learning Lab (VILAB)</a>
-at 
+<a href="https://vilab.epfl.ch/">VILAB</a>,
 <a href="https://www.epfl.ch/">EPFL</a> supervised by 
 <a href="https://vilab.epfl.ch/zamir/"><b>Prof. Amir Zamir</b></a> (Summer@EPFL Program), 
 and a research assistant at 
-<a href="https://www.ie.cuhk.edu.hk/">Information Engineering Departmat</a> at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
-<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/"><b>Prof. Farzan Farnia</b></a> (ITCSC SRP Program).
+<a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/"><b>Prof. Farzan Farnia</b></a>.
 For my official university internship, I have recently joined the 
 <a href="https://asr-gooyesh.com/en/"><b>Asr Gooyesh Pardaz Company</b></a> and
-<a href="https://slpl.ce.sharif.edu/en/">Speech and Language Processing Laboratory (SLPL)</a>
+<a href="https://slpl.ce.sharif.edu/en/">Speech and Language Processing Laboratory</a>
 led by 
 <a href="https://scholar.google.com/citations?user=ebEhWZwAAAAJ&hl=en"><b>Prof. Hossein Sameti</b></a>
 to enhance my knowledge of NLP and Language Models.
