@@ -17,7 +17,7 @@ and
 I also have been very fortunate to be a research intern at 
 <a href="https://vilab.epfl.ch/">VILAB</a>,
 <a href="https://www.epfl.ch/">EPFL</a> supervised by 
-<a href="https://vilab.epfl.ch/zamir/"><b>Prof. Amir Zamir</b></a> (Summer@EPFL Program), 
+<a href="https://vilab.epfl.ch/zamir/"><b>Prof. Amir Zamir</b></a>, 
 and a research assistant at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
 <a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/"><b>Prof. Farzan Farnia</b></a>.
