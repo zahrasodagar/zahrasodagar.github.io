@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I’m Zahra! I am a senior B.Sc. student majoring in Electrical Engineering with a minor in Applied Mathematics at <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
-Throughout my undergraduate studies, I've had the great opportunity to be advised by 
+Throughout my undergraduate studies, I've had the great opportunity to be mentored by 
 <a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><b>Prof. Mohammad Hossein Yassaee</b></a>
 and 
 <a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a>.
