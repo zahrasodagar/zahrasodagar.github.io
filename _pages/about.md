@@ -30,7 +30,7 @@ to enhance my knowledge of NLP and Language Models.
 
 My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on robustness and generalization.
 
-In my non-academic life, I enjoy photography, reading, playing the Setar (and soon the Tanbur), listening to music, hiking, and learning new languages (currently focusing on improving my French and Arabic). I also love traveling, exploring different places and cultures. 
+In my non-academic life, I enjoy photography, reading, playing the Setar, listening to music, hiking, and learning new languages. I also love traveling, exploring different places and cultures. 
 
 Research Interests
 ------
