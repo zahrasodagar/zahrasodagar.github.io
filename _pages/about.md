@@ -36,10 +36,10 @@ Research Interests
 ------
 Including, but not limited to:
 <ul style="margin-top: -1%;" markdown='1'>
-<li> Machine Learning (both applied and theoretical) and Deep Learning</li>
+<li> Machine Learning and Deep Learning</li>
 <li> Robustness</li>
 <li> Generalization and Interpretability</li>
-<li> Vision and Language Models</li>
+<li> Computer Vision and Language Models</li>
 <li> Multimodal Machine Learning</li>
 <li> Applied Statistics, Information Theory and Optimization</li>
 </ul>
