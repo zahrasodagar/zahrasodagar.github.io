@@ -21,10 +21,10 @@ repository               : "zahrasodagar/zahrasodagar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Zahra Sodagar profile.jpg"
+  name             : "Zahra Sodagar"
   pronouns         : # example: "she/her"  
-  bio              : "Graduated B.Sc. Electrical Engineering from Sharif University of Technology; incoming CS Ph.D. student at the University of Maryland"
+  bio              : "Incoming CS Ph.D. student at the University of Maryland; Graduated B.Sc. Electrical Engineering from Sharif University of Technology"
   location         : "Somewhere on Earth"
   employer         : "University of Maryland"
   uri              : # URL
