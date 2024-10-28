@@ -24,7 +24,7 @@ author:
   avatar           : "Zahra Sodagar profile.jpg"
   name             : "Zahra Sodagar"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming CS Ph.D. student at the University of Maryland; Graduated B.Sc. Electrical Engineering from Sharif University of Technology"
+  bio              : "Incoming CS Ph.D. Student at the University of Maryland"
   location         : "Somewhere on Earth"
   employer         : "University of Maryland"
   uri              : # URL
@@ -122,7 +122,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : hQvw2Q62Bc2bEYidSTPGwifpKROrdQybC1bx02Ui7gs
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
