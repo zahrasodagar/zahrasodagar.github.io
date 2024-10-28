@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Zahra! I am a senior B.Sc. student majoring in Electrical Engineering with a minor in Applied Mathematics at <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
+Hi, I’m Zahra! I’m an incoming Ph.D. student in Computer Science at <a href="https://www.cs.umd.edu/">the University of Maryland</a>, starting in January 2025. I graduated with a B.Sc. in Electrical Engineering with a minor in Applied Mathematics from <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
 Throughout my undergraduate studies, I've had the great opportunity to be mentored by 
 <a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><b>Prof. Mohammad Hossein Yassaee</b></a>
 and 
@@ -28,7 +28,7 @@ led by
 <a href="https://scholar.google.com/citations?user=ebEhWZwAAAAJ&hl=en"><b>Prof. Hossein Sameti</b></a>
 to enhance my knowledge of NLP and Language Models.
 
-My broad research interests lie in the span of machine learning and deep learning, statistics, and trustworthy AI, with a particular focus on robustness and generalization.
+My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI, with a particular focus on robustness and generalization.
 
 In my non-academic life, I enjoy photography, reading, playing the Setar, listening to music, hiking, and learning new languages. I also love traveling, exploring different places and cultures. 
 
@@ -37,10 +37,11 @@ Research Interests
 Including, but not limited to:
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Machine Learning and Deep Learning</li>
+<li> Generative Models</li>
 <li> Robustness</li>
+<li> Privacy and Fairness</li>
 <li> Generalization and Interpretability</li>
-<li> Computer Vision and Language Models</li>
-<li> Multimodal Machine Learning</li>
+<li> Cognitive Science and Cognitively-inspired AI</li>
 <li> Applied Statistics, Information Theory and Optimization</li>
 </ul>
 
