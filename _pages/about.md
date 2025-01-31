@@ -22,7 +22,7 @@ and
 <a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a> throughout my undergraduate studies.
 
 
-My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI.
+My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI. 
 
 In my non-academic life, I enjoy photography, playing the Setar, books, good poetry and music. I also love traveling, exploring different places and cultures. 
 
