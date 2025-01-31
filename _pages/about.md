@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-execrpt: "Zahra"
+execrpt: ""
 author_profile: true
 redirect_from: 
   - /about/
