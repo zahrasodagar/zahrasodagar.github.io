@@ -21,12 +21,6 @@ I also have been very fortunate to be a research intern at
 and a research assistant at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
 <a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/"><b>Prof. Farzan Farnia</b></a>.
-For my official university internship, I have recently joined the 
-<a href="https://asr-gooyesh.com/en/"><b>Asr Gooyesh Pardaz Company</b></a> and
-<a href="https://slpl.ce.sharif.edu/en/">SLPL</a>
-led by 
-<a href="https://scholar.google.com/citations?user=ebEhWZwAAAAJ&hl=en"><b>Prof. Hossein Sameti</b></a>
-to enhance my knowledge of NLP and Language Models.
 
 My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI.
 
