@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Zahra! I’m a first year Ph.D. student in Computer Science at <a href="https://www.cs.umd.edu/">the University of Maryland</a>, advised by Prof. <a href="https://www.cs.umd.edu/~sfeizi/">Soheil Feizi</a>. I graduated with a B.Sc. in Electrical Engineering with a minor in Applied Mathematics from <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
+Hi, I’m Zahra! I’m a first year Ph.D. student in Computer Science at <a href="https://www.cs.umd.edu/">the University of Maryland</a>, advised by <a href="https://www.cs.umd.edu/~sfeizi/"><b>Prof. Soheil Feizi</b></a>. I graduated with a B.Sc. in Electrical Engineering with a minor in Applied Mathematics from <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
 Throughout my undergraduate studies, I have been fortunate to be a research intern at 
 <a href="https://vilab.epfl.ch/">VILAB</a>,
 <a href="https://www.epfl.ch/">EPFL</a> supervised by 
