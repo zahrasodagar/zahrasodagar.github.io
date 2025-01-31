@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Zahra! I’m an incoming Ph.D. student in Computer Science at <a href="https://www.cs.umd.edu/">the University of Maryland</a>, starting in January 2025. I graduated with a B.Sc. in Electrical Engineering with a minor in Applied Mathematics from <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
+Hi, I’m Zahra! I’m a first year Ph.D. student in Computer Science at <a href="https://www.cs.umd.edu/">the University of Maryland</a>. I graduated with a B.Sc. in Electrical Engineering with a minor in Applied Mathematics from <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
 Throughout my undergraduate studies, I've had the great opportunity to be mentored by 
 <a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><b>Prof. Mohammad Hossein Yassaee</b></a>
 and 
@@ -28,7 +28,7 @@ led by
 <a href="https://scholar.google.com/citations?user=ebEhWZwAAAAJ&hl=en"><b>Prof. Hossein Sameti</b></a>
 to enhance my knowledge of NLP and Language Models.
 
-My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI, with a particular focus on robustness and generalization.
+My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI.
 
 In my non-academic life, I enjoy photography, books and good poetry, playing the Setar, hiking, and learning new languages. I also love traveling, exploring different places and cultures. 
 
