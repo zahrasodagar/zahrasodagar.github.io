@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Zahra! I’m a first year Ph.D. student in Computer Science at <a href="https://www.cs.umd.edu/">the University of Maryland</a>. I graduated with a B.Sc. in Electrical Engineering with a minor in Applied Mathematics from <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
-Throughout my undergraduate studies, I've had the great opportunity to be mentored by 
-<a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><b>Prof. Mohammad Hossein Yassaee</b></a>
-and 
-<a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a>.
-
-I also have been very fortunate to be a research intern at 
+Hi, I’m Zahra! I’m a first year Ph.D. student in Computer Science at <a href="https://www.cs.umd.edu/">the University of Maryland</a>, advised by Prof. <a href="https://www.cs.umd.edu/~sfeizi/">Soheil Feizi</a>. I graduated with a B.Sc. in Electrical Engineering with a minor in Applied Mathematics from <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
+Throughout my undergraduate studies, I have been fortunate to be a research intern at 
 <a href="https://vilab.epfl.ch/">VILAB</a>,
 <a href="https://www.epfl.ch/">EPFL</a> supervised by 
 <a href="https://vilab.epfl.ch/zamir/"><b>Prof. Amir Zamir</b></a>, 
 and a research assistant at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
 <a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/"><b>Prof. Farzan Farnia</b></a>.
+I've also had the great opportunity to be mentored by 
+<a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><b>Prof. Mohammad Hossein Yassaee</b></a>
+and 
+<a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a> in my home university.
+
 
 My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI.
 
