@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Zahra"
+execrpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I’m Zahra! I’m a first year Ph.D. student in Computer Science at <a href="https://www.cs.umd.edu/">the University of Maryland</a>, advised by <a href="https://www.cs.umd.edu/~sfeizi/"><b>Prof. Soheil Feizi</b></a>. I graduated with a B.Sc. in Electrical Engineering with a minor in Applied Mathematics from <a href="https://en.sharif.edu/">Sharif University of Technology</a>. 
-Throughout my undergraduate studies, I have been fortunate to be a research intern at 
+ I have been fortunate to be a research intern at 
 <a href="https://vilab.epfl.ch/">VILAB</a>,
 <a href="https://www.epfl.ch/">EPFL</a> supervised by 
 <a href="https://vilab.epfl.ch/zamir/"><b>Prof. Amir Zamir</b></a>, 
@@ -19,7 +19,7 @@ and a research assistant at
 I've also had the great opportunity to be mentored by 
 <a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><b>Prof. Mohammad Hossein Yassaee</b></a>
 and 
-<a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a> in my home university.
+<a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a> throughout my undergraduate studies.
 
 
 My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI.
