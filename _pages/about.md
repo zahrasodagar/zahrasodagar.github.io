@@ -30,7 +30,7 @@ to enhance my knowledge of NLP and Language Models.
 
 My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI, with a particular focus on robustness and generalization.
 
-In my non-academic life, I enjoy photography, reading, playing the Setar, listening to music, hiking, and learning new languages. I also love traveling, exploring different places and cultures. 
+In my non-academic life, I enjoy photography, books and good poetry, playing the Setar, hiking, and learning new languages. I also love traveling, exploring different places and cultures. 
 
 Research Interests
 ------
@@ -38,11 +38,9 @@ Including, but not limited to:
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Machine Learning and Deep Learning</li>
 <li> Generative Models</li>
-<li> Robustness</li>
-<li> Privacy and Fairness</li>
-<li> Generalization and Interpretability</li>
-<li> Cognitive Science and Cognitively-inspired AI</li>
-<li> Applied Statistics, Information Theory and Optimization</li>
+<li> Interpretability</li>
+<li> Reasoning</li>
+<li> Cognitively-inspired AI</li>
 </ul>
 
 Publications
