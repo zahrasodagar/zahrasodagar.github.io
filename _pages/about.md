@@ -24,7 +24,7 @@ and
 
 My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI. 
 
-In my non-academic life, I enjoy photography, playing the Setar, books, good poetry and music. I also love traveling, exploring different places and cultures. 
+In my non-academic life, I enjoy photography, playing the Setar, books, good poetry and music. I also love traveling, exploring different places, cultures, and stories. 
 
 Research Interests
 ------
