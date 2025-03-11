@@ -16,28 +16,30 @@ Hi, I’m Zahra! I’m a first year Ph.D. student in Computer Science at <a href
 and a research assistant at 
 <a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> supervised by 
 <a href="https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/"><b>Prof. Farzan Farnia</b></a>.
-I've also had the great opportunity to be mentored by 
+During my undergraduate studies, I've also had the great opportunity to be mentored by 
 <a href="https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en"><b>Prof. Mohammad Hossein Yassaee</b></a>
 and 
-<a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a> throughout my undergraduate studies.
+<a href="https://scholar.google.com/citations?user=24GngZYAAAAJ&hl=en"><b>Prof. Sajjad Amini</b></a>.
 
 
-My broad research interests lie in the span of machine learning and deep learning, generative models, and trustworthy AI. 
+In a nutshell, my broad research interests lie in the span of machine learning and deep learning, generative models, interpretability and trustworthy AI. 
 
-In my non-academic life (a.k.a. the life life), I enjoy photography, playing the Setar, books, good poetry and music. I also love traveling, exploring different places, cultures, lives and stories. 
+In my non-academic life (a.k.a. the Life life), I enjoy photography, playing the Setar, books, good poetry and music. I also love traveling, exploring different places, cultures, and stories. 
 
-Research Interests
+## Research Interests
 ------
 Including, but not limited to:
 <ul style="margin-top: -1%;" markdown='1'>
-<li> Machine Learning and Deep Learning</li>
-<li> Generative Models</li>
-<li> Interpretability</li>
-<li> Reasoning</li>
-<li> Cognitively-inspired AI</li>
+<li> Machine Learning and Deep Learning </li>
+<li> Generative Models </li>
+<li> Multimodal Learning </li>
+<li> Meta Learning </li>
+<li> Reasoning </li>
+<li> Cognitively-Inspired AI </li>
+<li> Psychoanalytic Linguistics for ML </li>
 </ul>
 
-Publications
+## Publications
 ------
 <ul style="margin-top: -1%;" markdown='1'>
 <li><a href="https://rapid-network-adaptation.epfl.ch/"><b>Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback</b></a>
